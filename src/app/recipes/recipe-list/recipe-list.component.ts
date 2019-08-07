@@ -12,7 +12,7 @@ export class RecipeListComponent implements OnInit {
     new Recipe(
       'Githeri Recipe',
       'Make sweet githeri',
-      'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjH5tPpjvDjAhXq2eAKHTYYDkwQjRx6BAgBEAQ&url=http%3A%2F%2Fkenyanrecipesgalore.blogspot.com%2F2015%2F06%2Ffried-githeri-with-idah-chege.html&psig=AOvVaw3q_sKQZ1_kkzSgl69n3pgu&ust=1565245161131957')
+      'http://3.bp.blogspot.com/-gJ3x22_tPKY/VYkUAAA5CcI/AAAAAAAAAI0/bKVm0vTLqD8/s1600/githeri.jpg')
   ];
 
   constructor() { }
